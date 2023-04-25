@@ -23,9 +23,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-data-redis:2.3.7.RELEASE'
     implementation 'org.springframework.boot:spring-boot-starter-web:2.3.7.RELEASE'
     implementation 'org.springframework.boot:spring-boot-starter-test:2.3.7.RELEASE'
-
-
-
+    implementation 'redis.clients:jedis:4.3.1'
 }
 
 
